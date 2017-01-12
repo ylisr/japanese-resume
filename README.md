@@ -9,6 +9,7 @@ Hi, I'm using this repo to temporarily store my resume in Japanese.
 <h2>教育履歴</h2>
 シラキュース大学 - 情報研究学院&nbsp;&nbsp;&nbsp;&nbsp;2009年9月~2013年5月  
 Syracuse University - [School of Information Studies](https://ischool.syr.edu/)&nbsp;&nbsp;&nbsp;&nbsp;New York, United States  
+  
 理学学士:  
 * 情報工学専攻 B.S Information Management & Technology  
 * 哲学専攻    B.A Philosophy  
