@@ -7,7 +7,7 @@ Hi, I'm using this repo to temporarily store my resume in Japanese.
 <h4>leeonjel@gmail.com</h4>
 <h4>期待ポジション：iOSエンジニア</h4>  
 <h2>教育履歴</h2>
-シラキュース大学 - 情報研究学院&nbsp;&nbsp;&nbsp;&nbsp;2009年9月~2013年5月  
+シラキュース大学 - 情報研究学院&nbsp;&nbsp;&nbsp;&nbsp;アメリカニューヨーク州&nbsp;&nbsp;&nbsp;&nbsp;2009年9月~2013年5月  
 Syracuse University - [School of Information Studies](https://ischool.syr.edu/)&nbsp;&nbsp;&nbsp;&nbsp;New York, United States  
   
 理学学士:  
